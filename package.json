@@ -31,7 +31,7 @@
     "underscore": "1.5.x"
   },
   "scripts": {
-  "start": "node server.js"
+  "start": "node index.js"
 },
   "analyze": false,
   "license": "BSD-2-Clause",
